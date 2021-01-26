@@ -37,18 +37,23 @@ Installation:
     https://jekyllrb.com/docs/installation/
 
 2. Get jekyll and bundler:
+    ```
     gem install jekyll bundler
+    ```
     For more details: https://jekyllrb.com/docs/
 
 3. Target this (local) directory for gems to install (from this dir):
+    ```
     bundle config set --local path 'vendor/bundle'
-
+    ```
 4. Update the gems
+    ```
     bundle update 
-
+    ```
 5. Serve the website locally
+    ```
     bundle exec jekyll serve
-
+    ```
 6. View the website in your browser with url:
     localhost:4000
 
