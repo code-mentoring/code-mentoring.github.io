@@ -21,7 +21,7 @@ Jekyll generates the _site directory and contents from the following:
 * 404.html       -> used when link files not found
 * (We will add more here as we go!)
 
-The live page can be found at:
+The production (live) page can be found at:
     https://codementoring.github.io
 
 
@@ -32,6 +32,7 @@ After performing the following installation you should be able to:
 * view the website locally via your browser
 * modify the markdown files for to update the website
 
+Installation:
 1. Install necessary packages to run jekyll
     https://jekyllrb.com/docs/installation/
 
