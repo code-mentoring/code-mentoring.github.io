@@ -22,7 +22,7 @@ Jekyll generates the _site directory and contents from the following:
 * (We will add more here as we go!)
 
 The production (live) page can be found at:
-    https://codementoring.github.io
+    https://code-mentoring.github.io/
 
 
 Install for local development
