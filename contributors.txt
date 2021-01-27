@@ -1,9 +1,6 @@
 Ed
 Tomoya
-<<<<<<< HEAD
-Marianna
-=======
 Eric J
 Andy-TE
 Raphael_Pagliuca
->>>>>>> upstream/main
+Marianna
