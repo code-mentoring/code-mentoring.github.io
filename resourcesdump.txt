@@ -1,0 +1,8 @@
+Please add any resources that are shared
+We will thin down and pick the best for publish on the resources page
+
+JavaScript
+https://javascript.info/
+
+
+https://fullstackopen.com/en/
