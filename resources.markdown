@@ -14,6 +14,7 @@ Suggestions are welcome via GitHub Issues or just let us know on Slack.
   * [CSS](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/){:target="_blank"}
   * [JavaScript](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/){:target="_blank"} 
 * Free JavaScript book: [Eloquent JavaScript](https://eloquentjavascript.net/){:target="_blank"} for a deeper knowledge of coding with JavaScript
+* [The Modern JavaScript Tutorial](https://javascript.info/){:target="_blank"}
 * Free online [full-stack course](https://fullstackopen.com/en/){:target="_blank"} from University of Helsinki
 
 ## Python
