@@ -17,8 +17,7 @@ layout: default
     .then(function (res) {
       return res.json()
     })
-    .then(function (myJson) {
-      let events = myJson;
+    .then(function (events) {
       events.forEach(data=>{
         let date = new Date(data.time)
         let options = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric', timeZoneName: 'short', hour: 'numeric'};
