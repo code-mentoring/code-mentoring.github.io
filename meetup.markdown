@@ -18,40 +18,28 @@ Or meet us live at [Dublin](https://www.meetup.com/Dublin-Code-Mentoring/) and [
     <h3>Toronto</h3>
 </div>
 <script>
-  function myCallbackDublin(response) {
-    response.data.forEach(data => {
-      let date = new Date(data.time)
-      let options = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric', timeZoneName: 'short', hour: 'numeric' };
-      let event = {
+    let options = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric', timeZoneName: 'short', hour: 'numeric' };
+    function showLinks(id, data){
+        let event = {
         name: data.name,
         link: data.link,
-        time: date.toLocaleString('en-US', options)
+        time: new Date(data.time).toLocaleString('en-US', options)
       }
-      if (!document.querySelector('#upcoming-events-dublin')) return
-      document.querySelector('#upcoming-events-dublin').insertAdjacentHTML('beforeend', `
+    if (!document.querySelector(`#${id}`)) return
+      document.querySelector(`#${id}`).insertAdjacentHTML('beforeend', `
       <a href="${event.link}" target="_blank" rel="noopener noreferrer">${event.name}</a>
       <div>${event.time}</div>
       <br>
-      `
-      );
+      `)
+    }
+  function myCallbackDublin(response) {
+    response.data.forEach(data => {
+      showLinks('upcoming-events-dublin', data);
     })
   }
   function myCallbackToronto(response) {
     response.data.forEach(data => {
-      let date = new Date(data.time)
-      let options = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric', timeZoneName: 'short', hour: 'numeric' };
-      let event = {
-        name: data.name,
-        link: data.link,
-        time: date.toLocaleString('en-US', options)
-      }
-      if (!document.querySelector('#upcoming-events-toronto')) return
-      document.querySelector('#upcoming-events-toronto').insertAdjacentHTML('beforeend', `
-      <a href="${event.link}" target="_blank" rel="noopener noreferrer">${event.name}</a>
-      <div>${event.time}</div>
-      <br>
-      `
-      );
+      showLinks('upcoming-events-toronto', data);
     })
   }
 </script>
