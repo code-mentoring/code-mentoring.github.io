@@ -33,6 +33,8 @@ meetup_toronto: meetup-toronto
 theme: minima
 plugins:
   - jekyll-feed
+markdown: CommonMarkGhPages
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
