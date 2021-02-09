@@ -74,3 +74,18 @@ Your first task/exercise
 Add your name the contibutors.txt file.
 (This file will not change the website in any way, 
 but is publicly viewable on github so you can use a pseudonym or other handle if you want)
+
+Keep your forked repo up to date
+------------------------
+* Set an upstream repo:
+  * git remote add upstream https://github.com/code-mentoring/code-mentoring.github.io.git
+* Verify:
+  * git remote -v
+* Fetch code-mentoring changes:
+  * git fetch upstream
+* Then merge them into your local:
+  * git merge upstream/main
+* Then update your remote fork:
+  * git push
+
+[More info about GitHub Forking](https://gist.github.com/Chaser324/ce0505fbed06b947d962)
