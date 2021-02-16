@@ -9,8 +9,8 @@ Answers to common questions that come up in the slack channel and weekly meetup
 ## GIT and GitHub
 
 ### How to keep a fork repo up to date?
-* Set an upstream repo:</li>
-  * E.g. `git remote add upstream https://github.com/code-mentoring/code-mentoring.github.io.git`
+* Set an upstream repo:
+  * `git remote add upstream MAIN_REPO_URL.git`
 * Verify:
   * `git remote -v`
 * Fetch changes from upstream repo:
