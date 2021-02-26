@@ -4,11 +4,9 @@ title: Meetup
 permalink: /meetup/
 ---
 
-Hi, we have a meetup group
+Hi, we have a meetup group!
 
-You can Meet us online at: [meetup](https://www.meetup.com/de-DE/Dublin-Code-Mentoring/)
-
-Or meet us live at [Dublin](https://www.meetup.com/Dublin-Code-Mentoring/) and [Toronto](https://www.meetup.com/Toronto-Code-Mentoring/)
+And you're very welcome to join us at [Dublin](https://www.meetup.com/Dublin-Code-Mentoring/) and [Toronto](https://www.meetup.com/Toronto-Code-Mentoring/).
 
 <h2>Upcoming Events</h2>
 <div id="upcoming-events-dublin">
