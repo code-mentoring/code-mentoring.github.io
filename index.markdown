@@ -5,4 +5,4 @@
 layout: home
 ---
 
-We are an international community of budding and seasoned developers providing opportunities for companionship and growth through meetups in the technology space.
+We are an international community of budding and seasoned software developers providing opportunities for companionship and growth through meetups in the technology space.
