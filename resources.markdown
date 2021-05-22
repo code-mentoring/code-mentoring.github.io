@@ -15,6 +15,7 @@ Suggestions are welcome via GitHub Issues or just let us know on Slack.
     * <a href="https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/" target="_blank">HTML</a>  
     * <a href="https://www.freecodecamp.org/learn/responsive-web-design/basic-css/" target="_blank">CSS</a>
     * <a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/" target="_blank">JavaScript</a>
+  * <a href="https://github.com/kamranahmedse/developer-roadmap" target="_blank">Roadmap to becoming a web developer</a>  
   * Free JavaScript book: <a href="https://eloquentjavascript.net/" target="_blank">Eloquent JavaScript</a> for a deeper knowledge of coding with JavaScript
   * <a href="https://javascript.info/" target="_blank">The Modern JavaScript Tutorial</a>
   * Free online <a href="https://fullstackopen.com/en/" target="_blank">full-stack course</a> from University of Helsinki
