@@ -60,10 +60,3 @@ Suggestions are welcome via GitHub Issues or just let us know on Slack.
   * <a href="https://spring.io/guides/gs/rest-service/" target="_blank">Building a RESTful Web Service</a>
   * <a href="https://spring.io/guides/gs/accessing-data-jpa/" target="_blank">Accessing Data with JPA</a>
  </details>
- 
-<details>
-  <summary>Data Structures & Algorithms</summary>
-
-* Lists
-  * [Linked Lists in Python: An Introduction](https://realpython.com/linked-lists-python/)
-</details>
