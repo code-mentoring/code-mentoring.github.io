@@ -7,6 +7,11 @@ permalink: /resources/
 Various resources for improving your coding skills. 
 Suggestions are welcome via GitHub Issues or just let us know on Slack.
 
+<details>
+  <summary>Computer Science (General Topics)</summary>
+  
+  * Free online <a href="https://www.edx.org/course/introduction-computer-science-harvardx-cs50x" target="_blank">Introduction to Computer Science</a> from <a href="https://www.edx.org/school/harvardx" target="_blank">Harvard University</a>.
+</details>  
 
 <details>
   <summary>Web Development (HTML/CSS/JavaScript)</summary>
