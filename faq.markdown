@@ -6,6 +6,18 @@ permalink: /faq/
 
 Answers to common questions that come up in the slack channel and weekly meetup
 
+### Web Development
+
+
+<details>
+  <summary>Do I need to be a "Full Stack" developer?</summary>
+
+  No. Although smaller companies and startups might require a more rounded developer, there will be many oppurtunities for you to specialise in front-end or back-end development. Follow your interest, if you love front-end development and web design then delve deeper into those areas. Or if that doesn't interest you nearly as much as writing APIs, microservices and interacting with databases, then keep learning that area instead.
+  
+  Either way, the fundamentals of coding, data structures and algoritms, communication and problem solving skills are the foundation to your career, whichever path you follow.
+  
+</details>  
+  
 ### GIT and GitHub
 
 <details>
