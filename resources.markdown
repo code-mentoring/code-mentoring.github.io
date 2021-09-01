@@ -8,6 +8,17 @@ Various resources for improving your coding skills.
 Suggestions are welcome via GitHub Issues or just let us know on Slack.
 
 <details>
+  <summary>New to Programming (Begin here)</summary>
+  
+  * Follow these foundational learning paths on FreeCodeCamp (in this order):
+    * <a href="https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/" target="_blank">HTML</a>  
+    * <a href="https://www.freecodecamp.org/learn/responsive-web-design/basic-css/" target="_blank">CSS</a>
+    * <a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/" target="_blank">JavaScript</a>
+  * Take your time and play around with the each new thing that you learn.
+  * Join our Q&A meetup events and reach out on our Slack space when you have questions.
+</details>  
+
+<details>
   <summary>Computer Science (General Topics)</summary>
   
   * Free online <a href="https://www.edx.org/course/introduction-computer-science-harvardx-cs50x" target="_blank">Introduction to Computer Science</a> from <a href="https://www.edx.org/school/harvardx" target="_blank">Harvard University</a>.
