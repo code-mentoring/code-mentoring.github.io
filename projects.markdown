@@ -18,7 +18,7 @@ These are our ongoing projects and you're very welcome to join us.
 as a developer writing code that will be used by people all over the world.
 - [Jitsi Meet](https://meet.jit.si/) is our preferred video conferencing platform for hosting online meetup events,
 which also happens to be open source and free to use.
-- We will explore the Jisti Meet code (built on React and React Native), learn about the software development lifecycle
+- We will explore the Jisti Meet code base (built on React and React Native), learn about the software development lifecycle
 and contribute as best we can to this open source project.
 - Regular meetup events and Slack channel (#jitsi) for discussion and collaboration.
 - More useful info:
