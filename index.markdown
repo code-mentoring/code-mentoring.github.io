@@ -10,3 +10,5 @@ We are an international community of budding and seasoned software developers cr
 We are open to all experience levels. Anybody who wants to improve their skills and help others is welcome to join our free mentoring meetups and collaborate on projects.
 
 Our meetups are free and organised by volunteers. Everyone has their struggles and difficulties, but together we can get through them and improve our skills along the way.
+
+There's so much free educational resources online for coding, see our recommended list of resources at [Resources](resources.markdown)
