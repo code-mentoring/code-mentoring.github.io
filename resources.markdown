@@ -4,8 +4,7 @@ title: Resources
 permalink: /resources/
 ---
 
-Various resources for improving your coding skills. 
-Suggestions are welcome via GitHub Issues or just let us know on Slack.
+There's so much free educational resources online for coding, and here's some of our favorites.
 
 <details>
   <summary>New to Programming (Begin here)</summary>
