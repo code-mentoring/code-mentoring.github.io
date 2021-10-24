@@ -12,6 +12,8 @@ Here's our recommended resources and learning path to become a software develope
 
 Join our Q&A meetup events and reach out on our Slack space when you have questions.
 
+---
+
 ## Step One
 <details>
   <summary>Beginners</summary>
@@ -23,12 +25,16 @@ Join our Q&A meetup events and reach out on our Slack space when you have questi
   * Take your time and play around with each new thing that you learn.
 </details>  
 
+---
+
 ## Step Two
 <details>
   <summary>Computer Science (step two)</summary>
   
   * Free online <a href="https://www.edx.org/course/introduction-computer-science-harvardx-cs50x" target="_blank">Introduction to Computer Science</a> from <a href="https://www.edx.org/school/harvardx" target="_blank">Harvard University</a>.
 </details>  
+
+---
 
 ## Step Three
 
@@ -56,6 +62,7 @@ it's time to explore along your preferred career path.
 * Free data science <a href="https://www.kaggle.com/learn/overview" target="_blank">courses</a> on Kaggle
 </details>
 
+---
 
 ## Additional Resources 
 
