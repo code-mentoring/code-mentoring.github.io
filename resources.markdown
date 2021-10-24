@@ -42,7 +42,7 @@ Now that you've advanced beyond the beginning stages,
 it's time to explore along your preferred career path.
 
 <details>
-  <summary>Web Development Path (HTML/CSS/JavaScript)</summary>
+  <summary>Web Development</summary>
 
   * Foundational learning paths on FreeCodeCamp
     * <a href="https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/" target="_blank">HTML</a>  
@@ -56,7 +56,7 @@ it's time to explore along your preferred career path.
 </details>
 
 <details>
-  <summary>Data Science Path (AI)</summary>
+  <summary>Data Science</summary>
 
 * Free Python <a href="https://www.kaggle.com/learn/python" target="_blank">course</a> on Kaggle
 * Free data science <a href="https://www.kaggle.com/learn/overview" target="_blank">courses</a> on Kaggle
