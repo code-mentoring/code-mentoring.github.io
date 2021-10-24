@@ -64,6 +64,15 @@ it's time to explore along your preferred career path.
 
 ---
 
+## Step Four
+
+Now you have the knowledge and skill, this is great, but to get into the industry
+you must understand how software is developed, and how to crack the coding interview.
+
+Our Code Mentoring [Projects](projects.markdown) will help to take you to that level.
+
+---
+
 ## Additional Resources 
 
 When you're comfortable in you're preferred career path,
