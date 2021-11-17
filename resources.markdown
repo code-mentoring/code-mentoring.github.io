@@ -6,7 +6,7 @@ permalink: /resources/
 
 # Resources and Learning Path
 
-All of the educational resources that you need are available online for free, or in books.
+Most of the educational resources that you need are available online for free, or in books.
 
 Here's our recommended resources and learning path to become a software developer. 
 
