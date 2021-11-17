@@ -12,5 +12,5 @@ See our recommended resources and learning path to become a software developer a
 
 We are open to all experience levels. Anybody who wants to improve their skills and help others is welcome to join our free mentoring meetups and collaborate in our [Projects](projects.markdown).
 
-Our meetups are free and organised by volunteers. 
+Our [Meetups](meetup.markdown) are free and organised by volunteers. 
 Everyone has their struggles and difficulties, but together we can get through them and improve our skills along the way.
