@@ -6,11 +6,11 @@ permalink: /projects/
 
 These are our ongoing projects and you're very welcome to join us.
 
-### Crack the Coding Interview (CTCI)
+### Data Structures and Algorithms Club
 
-- We aim to solidify our understanding of computer science fundamentals and then learn how to apply those fundamentals to crack the coding interview.
-- Regular meetup event to discuss specific solutions to <a href="https://www.crackingthecodinginterview.com/" target="_blank">Crack the Coding Interview</a> questions.
-- See our <a href="https://github.com/code-mentoring/ctci" target="_blank">CTCI GitHub repo</a> for more details.
+- This is a place for coders of all levels to practice their data structures and algorithms skills. 
+- Whether you simply can't get enough data structures and algorithms problems, or you're actively looking for your first software engineering job and pretty nervous about "the coding part" of the interview.
+- Every 2 weeks we get together to discuss a particularly tickling problem, the likes of which could get asked on an interview.
   
 ### Open Source Project (Jitsi)
 
@@ -18,5 +18,4 @@ These are our ongoing projects and you're very welcome to join us.
 as a developer writing code that will be used by people all over the world.
 - [Jitsi Meet](https://meet.jit.si/) is our preferred video conferencing platform for hosting online meetup events,
 which also happens to be open source and free to use.
-- Bi-weekly meetup event to discuss our latest contributions and share knowledge.
-- All experience levels are welcome.
+- All experience levels are welcome to join us, no previous experience with Jitsi required.
