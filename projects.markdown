@@ -18,5 +18,5 @@ These are our ongoing projects and you're very welcome to join us.
 as a developer writing code that will be used by people all over the world.
 - [Jitsi Meet](https://meet.jit.si/) is our preferred video conferencing platform for hosting online meetup events,
 which also happens to be open source and free to use.
-- All experience levels are welcome to our bi-weekly Meetup to discuss our latest contributions and share knowledge.
-- Feel free to just come say Hi and ask about how you can get involved, no previous contributions or knowledge is required.
+- This is a place for us to learn about the Jitsi web/mobile application used by people all over the world, contribute as best we can to the code and help each other as we go.
+- Good knowledge of HTML, CSS, and JavaScript is required. If you're totally new to web development, then see our recommended resources and learning path at [Resources](resources.markdown).
