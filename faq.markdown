@@ -6,8 +6,30 @@ permalink: /faq/
 
 Answers to common questions that come up in our Slack channels and Meetups.
 
-### Web Development
+### Jitsi Open Source Project
 
+<details>
+  <summary>What are the steps to get involved?</summary>
+  
+  1. Introduction to the underlying technology (React/JavaScript).
+      1. [JavaScript tutorial](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
+      1. [Intro to React tutorial](https://reactjs.org/tutorial/tutorial.html#developer-tools)
+  1. Get to know the Jitsi architecture, developer's guide and GitHub repositories.
+      1. [Jitsi architecture](https://jitsi.github.io/handbook/docs/architecture)
+      1. [Jitsi developer guide](https://jitsi.github.io/handbook/docs/dev-guide/dev-guide-start)
+      1. [Jitsi-meet GitHub repo](https://github.com/jitsi/jitsi-meet)
+      1. [Jitsi Handbook GitHub repo](https://github.com/jitsi/handbook) (documentation needs contributors too)
+  1. Review *Issues* filtered by [web](https://github.com/jitsi/jitsi-meet/issues?q=is%3Aopen+is%3Aissue+label%3Aweb), i.e. related to web frontend.
+  1. Review *Pull Requests* filtered by [web](https://github.com/jitsi/jitsi-meet/pulls?q=is%3Aopen+is%3Apr+label%3Aweb).
+  1. Join the [Jitsi community](https://community.jitsi.org/).
+      1. The community forum is great for asking questions and getting help with problems.
+      1. In general, reserve opening new GitHub issues for confirmed app defects.
+  1. Read [CONTRIBUTING.md](https://github.com/jitsi/jitsi-meet/blob/master/CONTRIBUTING.md).
+  1. Help out by working on open [Issues](https://github.com/jitsi/jitsi-meet/issues)!
+      1. Don't worry if you can't find an issue to work on right now, you can still learn by looking at other peoples’ Pull Requests or just exploring the code.
+</details>  
+
+### Web Development
 
 <details>
   <summary>Do I need to be a "Full Stack" developer?</summary>
