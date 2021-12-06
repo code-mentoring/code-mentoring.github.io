@@ -44,6 +44,7 @@ Answers to common questions that come up in our Slack channels and Meetups.
     * [Open issues](https://github.com/jitsi/jitsi-meet/issues?q=is%3Aopen+is%3Aissue+label%3Aaccessibility+label%3Aweb)
     * [Pull Requests](https://github.com/jitsi/jitsi-meet/pulls?q=is%3Apr+label%3Aaccessibility+) (to see other dev's work)
   * Remember, you can learn a lot by simply looking at other peoples’ Pull Requests and exploring the code.
+</details>  
 
 ### Web Development
 
