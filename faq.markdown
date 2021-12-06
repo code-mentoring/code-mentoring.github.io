@@ -27,7 +27,23 @@ Answers to common questions that come up in our Slack channels and Meetups.
   1. Read [CONTRIBUTING.md](https://github.com/jitsi/jitsi-meet/blob/master/CONTRIBUTING.md).
   1. Help out by working on open [Issues](https://github.com/jitsi/jitsi-meet/issues)!
       1. Don't worry if you can't find an issue to work on right now, you can still learn by looking at other peoples’ Pull Requests or just exploring the code.
+</details> 
+
+<details>
+  <summary>Building the application is not supported on Windows, can I still contribute if I only have Windows?</summary>
+  
+  * Yes, although only Linux and MacOS are supported to build the application, Windows users just need to use [Windows Subsystem for Linux (WSL)](https://docs.microsoft.com/en-us/windows/wsl/).
+    * If your WSL has no internet connection, follow this [guide](https://docs.microsoft.com/en-us/windows/wsl/troubleshooting#bash-loses-network-connectivity-once-connected-to-a-vpn).
 </details>  
+
+<details>
+  <summary>What are good first issues for new contributers?</summary>
+  
+  * Bug/defect issues are good first issues because the steps to reproduce the issue and the expected functionality are clearly defined. 
+  * [Accessibility](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/What_is_accessibility) issues in Jitsi seem easy enough to understand, and it's an important concept in frontend web development.
+    * [Open issues](https://github.com/jitsi/jitsi-meet/issues?q=is%3Aopen+is%3Aissue+label%3Aaccessibility+label%3Aweb)
+    * [Pull Requests](https://github.com/jitsi/jitsi-meet/pulls?q=is%3Apr+label%3Aaccessibility+) (to see other dev's work)
+  * Remember, you can learn a lot by simply looking at other peoples’ Pull Requests and exploring the code.
 
 ### Web Development
 
