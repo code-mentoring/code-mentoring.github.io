@@ -46,6 +46,13 @@ Answers to common questions that come up in our Slack channels and Meetups.
   * Remember, you can learn a lot by simply looking at other peoples’ Pull Requests and exploring the code.
 </details>  
 
+<details>
+  <summary>What's our Slack channel for discussions and questions?</summary>
+  
+  * We use the #jitsi channel in the code-mentoring slack workspace.
+    * Join a Meetup to get an invite to our Slack workspace.
+</details>  
+
 ### Web Development
 
 <details>
