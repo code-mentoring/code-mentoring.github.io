@@ -41,10 +41,10 @@ Answers to common questions that come up in our Slack channels and Meetups.
   <summary>What are good first issues for new contributers?</summary>
   
   * Bug/defect issues are good first issues because the steps to reproduce the issue and the expected functionality are clearly defined. 
+  * Simply looking at other peoples’ Pull Requests and exploring the code is a great way to learn.
   * [Accessibility](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/What_is_accessibility) issues in Jitsi seem easy enough to understand, and it's an important concept in frontend web development.
     * [Open issues](https://github.com/jitsi/jitsi-meet/issues?q=is%3Aopen+is%3Aissue+label%3Aaccessibility+label%3Aweb)
     * [Pull Requests](https://github.com/jitsi/jitsi-meet/pulls?q=is%3Apr+label%3Aaccessibility+) (to see other dev's work)
-  * Remember, you can learn a lot by simply looking at other peoples’ Pull Requests and exploring the code.
 </details>  
 
 <details>
