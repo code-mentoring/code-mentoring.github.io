@@ -54,6 +54,12 @@ Answers to common questions that come up in our Slack channels and Meetups.
     * Join a Meetup to get an invite to our Slack workspace.
 </details>  
 
+<details>
+  <summary>What's the bi-weekly community call link?</summary>
+  
+  * https://meet.jit.si/codementoring-jitsi
+</details>  
+
 ### Web Development
 
 <details>
