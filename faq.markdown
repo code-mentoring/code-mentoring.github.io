@@ -14,6 +14,7 @@ Answers to common questions that come up in our Slack channels and Meetups.
   1. Introduction to the underlying technology (React/JavaScript).
       1. [JavaScript tutorial](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
       1. [Intro to React tutorial](https://reactjs.org/tutorial/tutorial.html#developer-tools)
+      1. [Learn React for free](https://scrimba.com/learn/learnreact) (Scrimba course)
   1. Get to know the Jitsi architecture, developer's guide and GitHub repositories.
       1. [Jitsi architecture](https://jitsi.github.io/handbook/docs/architecture)
       1. [Jitsi developer guide](https://jitsi.github.io/handbook/docs/dev-guide/dev-guide-start)
@@ -33,7 +34,7 @@ Answers to common questions that come up in our Slack channels and Meetups.
   <summary>Building the application is not supported on Windows, can I still contribute if I only have Windows?</summary>
   
   * Yes, although only Linux and MacOS are supported to build the application, Windows users just need to use [Windows Subsystem for Linux (WSL)](https://docs.microsoft.com/en-us/windows/wsl/).
-    * If your WSL has no internet connection, follow this [guide](https://docs.microsoft.com/en-us/windows/wsl/troubleshooting#bash-loses-network-connectivity-once-connected-to-a-vpn).
+    * After setup, if your WSL has no internet connection, follow this [guide](https://docs.microsoft.com/en-us/windows/wsl/troubleshooting#bash-loses-network-connectivity-once-connected-to-a-vpn).
 </details>  
 
 <details>
