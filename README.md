@@ -8,8 +8,7 @@ This repo holds files for the Code Mentoring [website](https://code-mentoring.gi
 This file documents:
 * How jekyll makes the website
 * How to install jekyll for local development
-* Making changes
-* Your first task/exercise.
+* How to make changes to the website
 
 
 How Jekyll makes website
@@ -69,12 +68,6 @@ If you make a change to the website:
 4. After your change has been approved, it will be merged.
    After merging you will be able to see your changes go live.
 
-
-Your first task/exercise
-------------------------
-Add your name the contibutors.txt file.
-(This file will not change the website in any way, 
-but is publicly viewable on github so you can use a pseudonym or other handle if you want)
 
 Keep your forked repo up to date
 ------------------------
