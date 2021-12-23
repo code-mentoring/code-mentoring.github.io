@@ -16,7 +16,6 @@ How Jekyll makes website
 
 Jekyll generates the _site directory and contents from the following:
 * index.markdown -> home landing page
-* about.markdown -> about page
 * _config.yml    -> config/header/footer info
 * 404.html       -> used when link files not found
 * (We will add more here as we go!)
@@ -63,7 +62,7 @@ Making changes
 
 If you make a change to the website:
 1. Test your changes locally, ensure you didn't break anything else!
-2. Commit and push to your own repo (see git tutorials for how this works)
+2. Commit and push to your own forked repo (see git tutorials for how this works)
 3. Make a pull request on code-mentoring's github.
 4. After your change has been approved, it will be merged.
    After merging you will be able to see your changes go live.
