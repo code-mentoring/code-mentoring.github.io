@@ -44,15 +44,14 @@ it's time to explore along your preferred career path.
 <details>
   <summary>Web Development</summary>
 
-  * Foundational learning paths on FreeCodeCamp
-    * <a href="https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/" target="_blank">HTML</a>  
-    * <a href="https://www.freecodecamp.org/learn/responsive-web-design/basic-css/" target="_blank">CSS</a>
-    * <a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/" target="_blank">JavaScript</a>
-  * Free online <a href="https://fullstackopen.com/en/" target="_blank">full-stack course</a> from University of Helsinki
-  * <a href="https://github.com/kamranahmedse/developer-roadmap" target="_blank">Roadmap to becoming a web developer</a>  
-  * <a href="https://developer.mozilla.org/en-US/" target="_blank">MDN Web Docs</a> have excellent free resources for developers.   
-  * Free JavaScript book: <a href="https://eloquentjavascript.net/" target="_blank">Eloquent JavaScript</a> for a deeper knowledge of coding with JavaScript
-  * <a href="https://javascript.info/" target="_blank">The Modern JavaScript Tutorial</a>
+  * [MDN Web Docs](https://developer.mozilla.org/en-US/) have excellent free resources for developers. 
+  * [The Modern JavaScript Tutorial](https://javascript.info/)
+  * Frontend
+    * [Frontend Developer roadmap](https://roadmap.sh/frontend)
+    * [Learn React for free](https://scrimba.com/learn/learnreact) (Scrimba course)
+  * Backend & full-stack
+    * [Backend Developer roadmap](https://roadmap.sh/backend)
+    * Free online [full-stack course](https://fullstackopen.com/en/) (React, Node.js, MongoDB)
 </details>
 
 <details>
