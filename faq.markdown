@@ -12,7 +12,7 @@ Answers to common questions that come up in our Slack channels and Meetups.
   <summary>What are the steps to get involved?</summary>
   
   1. Introduction to the underlying technology (React/JavaScript).
-      1. [JavaScript tutorial](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
+      1. [Intro to JavaScript tutorial](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/)
       1. [Intro to React tutorial](https://reactjs.org/tutorial/tutorial.html#developer-tools)
       1. [Learn React for free](https://scrimba.com/learn/learnreact) (Scrimba course)
   1. Get to know the Jitsi architecture, developer's guide and GitHub repositories.
