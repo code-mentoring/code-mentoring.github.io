@@ -5,9 +5,9 @@
 layout: home
 ---
 
-We are an international community of budding and seasoned software developers creating opportunities for companionship and growth through meetups in the technology space.
+We are an international community of budding and seasoned software developers creating opportunities for companionship and growth through peer knowledge sharing and learning projects.
 
-We are open to all experience levels. Anybody who wants to improve their skills and help others is welcome to join our free mentoring [Meetups](meetup.markdown) and collaborate in our [Projects](projects.markdown).
+We are open to all experience levels. Anybody who wants to improve their skills and help others is welcome to join our [Meetups](meetup.markdown) and collaborate in our [Projects](projects.markdown).
 
 Our [Meetups](meetup.markdown) are free and organised by volunteers. 
 Everyone has their struggles and difficulties, but together we can get through them and improve our skills along the way.
