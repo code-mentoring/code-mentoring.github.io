@@ -6,7 +6,12 @@ permalink: /faq/
 
 Answers to common questions that come up in our Slack channels and Meetups.
 
-### Jitsi Open Source Project
+### Jitsi Meet Open Source Project
+<details>
+  <summary>What is Jitsi Meet?</summary>
+  
+  * [Jitsi Meet](https://jitsi.org/jitsi-meet/) is an open source video conferencing solution built on React (web) and React Native (mobile).
+</details> 
 
 <details>
   <summary>What are the steps to get involved?</summary>
@@ -48,7 +53,7 @@ Answers to common questions that come up in our Slack channels and Meetups.
 </details>  
 
 <details>
-  <summary>What's our Slack channel for discussions and questions?</summary>
+  <summary>What's our Slack channel for asking questions and getting help?</summary>
   
   * We use the #jitsi channel in the code-mentoring slack workspace.
     * Join a Meetup to get an invite to our Slack workspace.
