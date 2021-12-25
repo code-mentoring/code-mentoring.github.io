@@ -55,9 +55,10 @@ Answers to common questions that come up in our Slack channels and Meetups.
 </details>  
 
 <details>
-  <summary>What's the bi-weekly community call link?</summary>
+  <summary>What's the link for our online meetup to collaborate and share knowledge?</summary>
   
   * [https://meet.jit.si/codementoring-jitsi](https://meet.jit.si/codementoring-jitsi)
+  * Also see our upcoming [Meetups](meetup.markdown).
 </details>  
 
 ### Web Development
