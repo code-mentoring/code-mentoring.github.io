@@ -25,14 +25,13 @@ Answers to common questions that come up in our Slack channels and Meetups.
       1. [Jitsi developer guide](https://jitsi.github.io/handbook/docs/dev-guide/dev-guide-start)
       1. [Jitsi-meet GitHub repo](https://github.com/jitsi/jitsi-meet)
       1. [Jitsi Handbook GitHub repo](https://github.com/jitsi/handbook) (documentation needs contributors too)
-  1. Review *Issues* filtered by [web](https://github.com/jitsi/jitsi-meet/issues?q=is%3Aopen+is%3Aissue+label%3Aweb), i.e. related to web frontend.
-  1. Review *Pull Requests* filtered by [web](https://github.com/jitsi/jitsi-meet/pulls?q=is%3Aopen+is%3Apr+label%3Aweb).
+  1. Read [CONTRIBUTING.md](https://github.com/jitsi/jitsi-meet/blob/master/CONTRIBUTING.md).
   1. Join the [Jitsi community](https://community.jitsi.org/).
       1. The community forum is great for asking questions and getting help with problems.
       1. In general, reserve opening new GitHub issues for confirmed app defects.
-  1. Read [CONTRIBUTING.md](https://github.com/jitsi/jitsi-meet/blob/master/CONTRIBUTING.md).
-  1. Help out by working on open [Issues](https://github.com/jitsi/jitsi-meet/issues)!
-      1. Don't worry if you can't find an issue to work on right now, you can still learn by looking at other peoples’ Pull Requests or just exploring the code.
+  1. Contribute by working on open [Issues](https://github.com/jitsi/jitsi-meet/issues)!
+      1. There can be a lot of open Issues, so consider filtering them based on [web](https://github.com/jitsi/jitsi-meet/issues?q=is%3Aopen+is%3Aissue+label%3Aweb), [iOS](https://github.com/jitsi/jitsi-meet/issues?q=is%3Aopen+is%3Aissue+label%3Aios), [android](https://github.com/jitsi/jitsi-meet/issues?q=is%3Aopen+is%3Aissue+label%3Aandroid) or [accessibility](https://github.com/jitsi/jitsi-meet/issues?q=is%3Aopen+is%3Aissue+label%3Aaccessibility).
+      1. Don't worry if you can't find an issue to work on right now, you can still learn by looking at other peoples’ [Pull Requests](https://github.com/jitsi/jitsi-meet/pulls) or just exploring the code.
 </details> 
 
 <details>
@@ -48,7 +47,7 @@ Answers to common questions that come up in our Slack channels and Meetups.
   * Bug/defect issues are good first issues because the steps to reproduce the issue and the expected functionality are clearly defined. 
   * Simply looking at other peoples’ Pull Requests and exploring the code is a great way to learn.
   * [Accessibility](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/What_is_accessibility) issues in Jitsi seem easy enough to understand, and it's an important concept in frontend web development.
-    * [Open issues](https://github.com/jitsi/jitsi-meet/issues?q=is%3Aopen+is%3Aissue+label%3Aaccessibility+label%3Aweb)
+    * [Open web accessibility issues](https://github.com/jitsi/jitsi-meet/issues?q=is%3Aopen+is%3Aissue+label%3Aaccessibility+label%3Aweb)
     * [Pull Requests](https://github.com/jitsi/jitsi-meet/pulls?q=is%3Apr+label%3Aaccessibility+) (to see other dev's work)
 </details>  
 
