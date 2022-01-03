@@ -16,5 +16,5 @@ These are our ongoing projects and you're very welcome to join us.
 
 * Contributing to open source is a great way to learn how software applications are developed, and to gain experience as a developer writing code that will be used by people all over the world.
 * This group focuses on the open source Jitsi Meet video conferencing solution which is built on React (web) and React Native (mobile).
-* We contribute to the project in our own time, and we have this meetup regularly to collaborate and share knowledge. Feel free to join us and ask about how you can get involved.
-* See our [FAQ page](faq.markdown) for more info.
+* We contribute to the project in our own time, and help each other by collaborating and sharing knowledge.
+* See our [FAQ page](faq.markdown) for more info about how you can get involved.
