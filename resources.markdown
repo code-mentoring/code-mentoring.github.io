@@ -38,14 +38,14 @@ Join our Q&A meetup events and reach out on our Slack space when you have questi
 
 ## Step Three
 
-Now that you've advanced beyond the beginning stages, 
+Well done! Now that you've advanced beyond the beginning stages, 
 it's time to explore along your preferred career path.
+
+Web Development if you're interested in building websites and Data Science if you prefer building software that uses statistical models to analyse data.
 
 <details>
   <summary>Web Development</summary>
 
-  * [MDN Web Docs](https://developer.mozilla.org/en-US/) have excellent free resources for developers. 
-  * [The Modern JavaScript Tutorial](https://javascript.info/)
   * Frontend
     * [Frontend Developer roadmap](https://roadmap.sh/frontend)
     * [Learn React for free](https://scrimba.com/learn/learnreact) (Scrimba course)
