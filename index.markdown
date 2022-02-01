@@ -9,6 +9,4 @@ We are an international community of budding and seasoned software developers cr
 
 We are open to all experience levels. Anybody who wants to improve their skills and help others is welcome to join our [Meetups](meetup.markdown) and collaborate in our [Projects](projects.markdown).
 
-Join us on Slack and ask your coding questions there anytime, click [here](http://tiny.cc/codement) to join.
-
 Everyone has their struggles and difficulties, but together we can get through them and improve our skills along the way.
