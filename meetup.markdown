@@ -4,7 +4,8 @@ title: Meetup
 permalink: /meetup/
 ---
 
-Hey, we have a meetup group!
+Hi, we have a meetup group!
+
 And you're very welcome to join us.
 
 <h2>Upcoming Events</h2>
@@ -23,7 +24,7 @@ And you're very welcome to join us.
 
 <script>
     let options = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric', timeZoneName: 'short', hour: 'numeric' };
-    function showLinks(id, data){
+    const showLinks = (id, data) => {
         let event = {
             name: data.name,
             link: data.link,
@@ -44,15 +45,25 @@ And you're very welcome to join us.
     })
   }  
     
-  function myCallbackDublin(response) {
+  const callbackDublin = response => {
     handleResponse('upcoming-events-dublin', response)
   }
-  function myCallbackToronto(response) {
+  const callbackToronto = response => {
     handleResponse('upcoming-events-toronto', response)
   }
+  const callbackMelbourne = response => {
+    handleResponse('upcoming-events-melbourne', response)
+  }
+  const callbackMedellin = response => {
+    handleResponse('upcoming-events-medellin', response)
+  }  
 </script>
 
 <script type="text/javascript"
-  src="https://api.meetup.com/Dublin-Code-Mentoring/events?page=4&callback=myCallbackDublin"></script>
+  src="https://api.meetup.com/Dublin-Code-Mentoring/events?page=2&callback=callbackDublin"></script>
 <script type="text/javascript"
-  src="https://api.meetup.com/Toronto-Code-Mentoring/events?page=4&callback=myCallbackToronto"></script>
+  src="https://api.meetup.com/Toronto-Code-Mentoring/events?page=2&callback=callbackToronto"></script>
+<script type="text/javascript"
+  src="https://api.meetup.com/Melbourne-Code-Mentoring-Web-Development-Design/events?page=2&callback=callbackMelbourne"></script>
+<script type="text/javascript"
+  src="https://api.meetup.com/Medellin-Code-Mentoring/events?page=2&callback=callbackMedellin"></script>
