@@ -4,7 +4,7 @@ title: Meetup
 permalink: /meetup/
 ---
 
-Hi, we have a meetup group!
+Hey, we have a meetup group!
 And you're very welcome to join us.
 
 <h2>Upcoming Events</h2>
@@ -38,7 +38,7 @@ And you're very welcome to join us.
         `)
     }
     
-  const handleResponse = (id, res) =>  {
+  const handleResponse = (id, response) =>  {
     response.data.forEach(data => {
       showLinks(id, data);
     })
