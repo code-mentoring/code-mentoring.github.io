@@ -9,4 +9,4 @@ We are an international community of budding and seasoned Software Engineers cre
 
 We are open to all experience levels. Anybody who wants to improve their skills and help others is welcome to join our [Meetups](meetup.markdown) and collaborate in our [Projects](projects.markdown).
 
-Everyone has their struggles and difficulties, but together we can get through them and improve our skills along the way.
+Everyone will face struggles and difficulties, but together we can get through them and improve ourselves to overcome any challenges.
