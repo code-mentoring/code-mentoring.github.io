@@ -10,8 +10,6 @@ Most of the educational resources that you need are available online for free, o
 
 Here's our recommended resources and learning path to become a software developer. 
 
-Join our Q&A meetup events and reach out on our Slack space when you have questions.
-
 ---
 
 ## Step One
@@ -38,34 +36,28 @@ Join our Q&A meetup events and reach out on our Slack space when you have questi
 
 ## Step Three
 
-Well done! Now that you've advanced beyond the beginning stages, 
-it's time to explore along your preferred career path.
-
-Web Development if you're interested in building websites and Data Science if you prefer building software that uses statistical models to analyse data.
+Well done! You've advanced beyond the beginning stages.
+Now it's time to deepen your knowledge of Web Development.
 
 <details>
-  <summary>Web Development</summary>
-
-  * Frontend
-    * [Frontend Developer roadmap](https://roadmap.sh/frontend)
-    * [Learn React for free](https://scrimba.com/learn/learnreact) (Scrimba course)
-  * Backend & full-stack
-    * [Backend Developer roadmap](https://roadmap.sh/backend)
-    * Free online [full-stack course](https://fullstackopen.com/en/) (React, Node.js, MongoDB)
+  <summary>Frontend</summary>
+  
+* [Frontend Developer roadmap](https://roadmap.sh/frontend)
+* [Learn React for free](https://scrimba.com/learn/learnreact) (Scrimba course)
 </details>
 
 <details>
-  <summary>Data Science</summary>
-
-* Free Python <a href="https://www.kaggle.com/learn/python" target="_blank">course</a> on Kaggle
-* Free data science <a href="https://www.kaggle.com/learn/overview" target="_blank">courses</a> on Kaggle
+  <summary>Backend & full-stack</summary>
+  
+* [Backend Developer roadmap](https://roadmap.sh/backend)
+* Free online [full-stack course](https://fullstackopen.com/en/) (React, Node.js, MongoDB)
 </details>
 
 ---
 
 ## Step Four
 
-Now you have the knowledge and skill, this is great, but to get into the industry
+Now you have solid knowledge and skill, this is great, but to get into the industry
 you must understand how software is developed, and how to crack the coding interview.
 
 Our Code Mentoring [Projects](projects.markdown) will help to take you to that level.
@@ -74,7 +66,7 @@ Our Code Mentoring [Projects](projects.markdown) will help to take you to that l
 
 ## Additional Resources 
 
-When you're comfortable in you're preferred career path,
+When you're comfortable in the technology stack that you're learning and working with,
 it's good to expand your knowledge of other areas from time to time.
 
 <details>
@@ -100,3 +92,10 @@ it's good to expand your knowledge of other areas from time to time.
   * <a href="https://spring.io/guides/gs/rest-service/" target="_blank">Building a RESTful Web Service</a>
   * <a href="https://spring.io/guides/gs/accessing-data-jpa/" target="_blank">Accessing Data with JPA</a>
  </details>
+ 
+ <details>
+  <summary>Data Science</summary>
+
+* Free Python <a href="https://www.kaggle.com/learn/python" target="_blank">course</a> on Kaggle
+* Free data science <a href="https://www.kaggle.com/learn/overview" target="_blank">courses</a> on Kaggle
+</details>
