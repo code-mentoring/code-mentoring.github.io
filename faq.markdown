@@ -18,7 +18,7 @@ Answers to common questions that come up in our Slack channels and Meetups.
   
   1. Introduction to the underlying technology (React/JavaScript).
       1. [Intro to JavaScript tutorial](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/)
-      1. [Intro to React tutorial](https://reactjs.org/tutorial/tutorial.html#developer-tools)
+      1. [Intro to React tutorial](https://reactjs.org/tutorial/tutorial.html)
       1. [Learn React for free](https://scrimba.com/learn/learnreact) (Scrimba course)
   1. Get to know the Jitsi architecture, developer's guide and GitHub repositories.
       1. [Jitsi architecture](https://jitsi.github.io/handbook/docs/architecture)
