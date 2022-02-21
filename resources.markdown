@@ -6,31 +6,28 @@ permalink: /resources/
 
 # Resources and Learning Path
 
-Most of the educational resources that you need are available online for free, or in books.
+Many websites provide well structured learning paths and tutorials
+which give you all of the educational resources needed to become a Software Engineer.
 
-Here's our recommended resources and learning path to become a software developer. 
+Here's our recommended resources and learning path, which is all available online for free.
 
 ---
 
 ## Step One
-<details>
-  <summary>Beginners</summary>
-  
-  * Follow these foundational learning paths on FreeCodeCamp (in this order):
-    * <a href="https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/" target="_blank">HTML</a>  
-    * <a href="https://www.freecodecamp.org/learn/responsive-web-design/basic-css/" target="_blank">CSS</a>
-    * <a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/" target="_blank">JavaScript</a>
-  * Take your time and play around with each new thing that you learn.
-</details>  
+
+Follow these learning paths on FreeCodeCamp in this order:
+1. [Basic HTML](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/)  
+1. [Basic CSS](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/)
+1. [Basic JavaScript](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/)
+
+Take your time and play around with each new thing that you learn.
 
 ---
 
 ## Step Two
-<details>
-  <summary>Computer Science (step two)</summary>
+Computer Science fundamentals.
   
-  * Free online <a href="https://www.edx.org/course/introduction-computer-science-harvardx-cs50x" target="_blank">Introduction to Computer Science</a> from <a href="https://www.edx.org/school/harvardx" target="_blank">Harvard University</a>.
-</details>  
+  * [Introduction to Computer Science (CS50)](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x) from HavardX.
 
 ---
 
@@ -39,34 +36,38 @@ Here's our recommended resources and learning path to become a software develope
 Well done! You've advanced beyond the beginning stages.
 Now it's time to deepen your knowledge of Web Development.
 
+* [Advanced JavaScript (ES6)](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#es6)  
+* [JavaScript Algorithms and Data Structures Projects](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#javascript-algorithms-and-data-structures-projects)  
+
 <details>
   <summary>Frontend</summary>
-  
-* [Frontend Developer roadmap](https://roadmap.sh/frontend)
-* [Learn React for free](https://scrimba.com/learn/learnreact) (Scrimba course)
+ 
+* [Responsive Web Design Projects](https://www.freecodecamp.org/learn/responsive-web-design/#responsive-web-design-projects)  
+* [Learn React](https://scrimba.com/learn/learnreact) (a JavaScript library for building user interfaces)
+* [Frontend Developer roadmap](https://roadmap.sh/frontend)  
 </details>
 
 <details>
   <summary>Backend & full-stack</summary>
   
-* [Backend Developer roadmap](https://roadmap.sh/backend)
-* Free online [full-stack course](https://fullstackopen.com/en/) (React, Node.js, MongoDB)
+* [Full-stack course](https://fullstackopen.com/en/) (React, Node.js, MongoDB)
+* [Backend Developer roadmap](https://roadmap.sh/backend)  
 </details>
 
 ---
 
 ## Step Four
 
-Now you have solid knowledge and skill, this is great, but to get into the industry
-you must understand how software is developed, and how to crack the coding interview.
+Now you have solid knowledge and technical skill, but to get into the industry
+you must understand how software is developed and how to crack the coding interview.
 
-Our Code Mentoring [Projects](projects.markdown) will help to take you to that level.
+Our Code Mentoring [meetups](meetup.markdown) and [learning projects](projects.markdown) will help you to get there.
 
 ---
 
 ## Additional Resources 
 
-When you're comfortable in the technology stack that you're learning and working with,
+When you're comfortable in the technology stack that you're working with,
 it's good to expand your knowledge of other areas from time to time.
 
 <details>
