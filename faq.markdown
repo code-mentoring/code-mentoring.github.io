@@ -54,7 +54,7 @@ Answers to common questions that come up in our Slack channels and Meetups.
 <details>
   <summary>What's our Slack channel for asking questions and getting help?</summary>
   
-  * We use the #jitsi channel in the code-mentoring slack workspace.
+  * We use the _#jitsi-project_ channel in the code-mentoring slack workspace.
     * Join a Meetup to get an invite to our Slack workspace.
 </details>  
 
