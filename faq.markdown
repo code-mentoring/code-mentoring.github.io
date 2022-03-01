@@ -32,6 +32,7 @@ Answers to common questions that come up in our Slack channels and Meetups.
   1. Contribute by working on open [Issues](https://github.com/jitsi/jitsi-meet/issues)!
       1. There can be a lot of open Issues, so consider filtering them based on [web](https://github.com/jitsi/jitsi-meet/issues?q=is%3Aopen+is%3Aissue+label%3Aweb), [iOS](https://github.com/jitsi/jitsi-meet/issues?q=is%3Aopen+is%3Aissue+label%3Aios), [android](https://github.com/jitsi/jitsi-meet/issues?q=is%3Aopen+is%3Aissue+label%3Aandroid) or [accessibility](https://github.com/jitsi/jitsi-meet/issues?q=is%3Aopen+is%3Aissue+label%3Aaccessibility).
       1. Don't worry if you can't find an issue to work on right now, you can still learn by looking at other peoples’ [Pull Requests](https://github.com/jitsi/jitsi-meet/pulls) or just exploring the code.
+      1. Our focus is on learning, so there's no rush or obligation to fix issues.
 </details> 
 
 <details>
