@@ -5,6 +5,6 @@
 layout: home
 ---
 
-We are an international community of budding and seasoned Software Engineers creating opportunities for companionship and growth through free knowledge sharing [Meetups](meetup.markdown) and learning [Projects](projects.markdown).
+We are an international community of Coders, from beginners to seasoned Software Engineers, creating opportunities for companionship and growth through free knowledge sharing [Meetups](meetup.markdown) and learning [Projects](projects.markdown).
 
-We are open to all experience levels. Anyone who wants to improve their skills and help others is welcome to join.
+Anyone who wants to improve themselves and help others is welcome to join.
