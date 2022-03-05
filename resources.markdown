@@ -15,9 +15,9 @@ Here's our recommended resources and learning path, which is all available onlin
 
 ## Step One
 
-Learn the fundamentals of coding (i.e. programming) with the popular JavaScript coding language.
+Learn the fundamentals of coding (i.e. programming) with the popular JavaScript language.
 
-  * [Basic JavaScript](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/)
+  * [Introduction to JavaScript](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/)
 
 Take your time and play around with each tutorial.
 
