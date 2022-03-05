@@ -15,17 +15,16 @@ Here's our recommended resources and learning path, which is all available onlin
 
 ## Step One
 
-Follow these learning paths on FreeCodeCamp in this order:
-1. [Basic HTML](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/)  
-1. [Basic CSS](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/)
-1. [Basic JavaScript](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/)
+Learn the fundamentals of coding (i.e. programming) with the popular JavaScript coding language.
 
-Take your time and play around with each new thing that you learn.
+  * [Basic JavaScript](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/)
+
+Take your time and play around with each tutorial.
 
 ---
 
 ## Step Two
-Computer Science fundamentals.
+If you've enjoyed solving problems with code and figuring things out, then continue the journey with a solid foundation in Computer Science.
   
   * [Introduction to Computer Science (CS50)](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x) from HavardX.
 
@@ -35,9 +34,6 @@ Computer Science fundamentals.
 
 Well done! You've advanced beyond the beginning stages.
 Now it's time to deepen your knowledge of Web Development.
-
-* [Advanced JavaScript (ES6)](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#es6)  
-* [JavaScript Algorithms and Data Structures Projects](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#javascript-algorithms-and-data-structures-projects)  
 
 <details>
   <summary>Frontend</summary>
