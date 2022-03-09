@@ -15,12 +15,14 @@ And you're very welcome to join us.
 <div id="upcoming-events-toronto">
     <h3>Toronto</h3>
 </div>
+<!--
 <div id="upcoming-events-melbourne">
     <h3>Melbourne</h3>
 </div>
 <div id="upcoming-events-medellin">
     <h3>Medellín</h3>
 </div>
+-->
 
 <script>
     let options = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric', timeZoneName: 'short', hour: 'numeric' };
