@@ -8,3 +8,5 @@ layout: home
 We are a community of coders, from beginners to seasoned software engineers, creating opportunities for companionship and growth through free knowledge sharing [Meetups](meetup.markdown) and learning [Projects](projects.markdown).
 
 Anyone who wants to improve themselves and help others is welcome to join.
+
+If you need some direction with your learning, then see our recommended [Resources and Learning Path](resources.markdown).
