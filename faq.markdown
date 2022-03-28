@@ -6,6 +6,14 @@ permalink: /faq/
 
 Answers to common questions that come up in our Slack channels and Meetups.
 
+### Coding Interviews
+
+<details>
+  <summary>How to prepare for the coding interview?</summary>
+  
+  * After learning the fundamentals of data structures and algorithms, see [How to effectively use LeetCode to prepare for interviews](https://leetcode.com/discuss/career/449135/How-to-effectively-use-LeetCode-to-prepare-for-interviews).
+</details> 
+
 ### Jitsi Meet Open Source Project
 <details>
   <summary>What is Jitsi Meet?</summary>
