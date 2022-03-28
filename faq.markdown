@@ -24,23 +24,7 @@ Answers to common questions that come up in our Slack channels and Meetups.
 <details>
   <summary>What are the steps to get involved?</summary>
   
-  1. Introduction to the underlying technology (React/JavaScript).
-      1. [Intro to JavaScript tutorial](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/)
-      1. [Intro to React tutorial](https://reactjs.org/tutorial/tutorial.html)
-      1. [Learn React for free](https://scrimba.com/learn/learnreact) (Scrimba course)
-  1. Get to know the Jitsi architecture, developer's guide and GitHub repositories.
-      1. [Jitsi architecture](https://jitsi.github.io/handbook/docs/architecture)
-      1. [Jitsi developer guide](https://jitsi.github.io/handbook/docs/dev-guide/dev-guide-start)
-      1. [Jitsi-meet GitHub repo](https://github.com/jitsi/jitsi-meet)
-      1. [Jitsi Handbook GitHub repo](https://github.com/jitsi/handbook) (documentation needs contributors too)
-  1. Read [CONTRIBUTING.md](https://github.com/jitsi/jitsi-meet/blob/master/CONTRIBUTING.md).
-  1. Join the [Jitsi community](https://community.jitsi.org/).
-      1. The community forum is great for asking questions and getting help with problems.
-      1. In general, reserve opening new GitHub issues for confirmed app defects.
-  1. Contribute by working on open [Issues](https://github.com/jitsi/jitsi-meet/issues)!
-      1. There can be a lot of open Issues, so consider filtering them based on [web](https://github.com/jitsi/jitsi-meet/issues?q=is%3Aopen+is%3Aissue+label%3Aweb), [iOS](https://github.com/jitsi/jitsi-meet/issues?q=is%3Aopen+is%3Aissue+label%3Aios), [android](https://github.com/jitsi/jitsi-meet/issues?q=is%3Aopen+is%3Aissue+label%3Aandroid) or [accessibility](https://github.com/jitsi/jitsi-meet/issues?q=is%3Aopen+is%3Aissue+label%3Aaccessibility).
-      1. Don't worry if you can't find an issue to work on right now, you can still learn by looking at other peoples’ [Pull Requests](https://github.com/jitsi/jitsi-meet/pulls) or just exploring the code.
-      1. Our focus is on learning, so there's no rush or obligation to fix issues.
+  * See [how to contribute to Jitsi Meet as a Developer](https://community.jitsi.org/t/how-to-how-to-contribute-to-jitsi-meet-as-a-developer/).
 </details> 
 
 <details>
@@ -65,17 +49,6 @@ Answers to common questions that come up in our Slack channels and Meetups.
   
   * We use the _#jitsi-project_ channel in the code-mentoring slack workspace.
     * Join a Meetup to get an invite to our Slack workspace.
-</details>  
-
-### Web Development
-
-<details>
-  <summary>Do I need to be a "Full Stack" developer?</summary>
-
-  No. Although smaller companies and startups might require a more rounded developer, there will be many oppurtunities for you to specialise in front-end or back-end development. Follow your interest, if you love front-end development and web design then delve deeper into those areas. Or if that doesn't interest you nearly as much as writing APIs, microservices and interacting with databases, then keep learning that area instead.
-  
-  Either way, the fundamentals of coding, data structures and algoritms, communication and problem solving skills are the foundation to your career, whichever path you follow.
-  
 </details>  
   
 ### GIT and GitHub
