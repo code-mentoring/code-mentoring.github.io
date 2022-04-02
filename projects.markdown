@@ -10,7 +10,8 @@ These are our ongoing projects and you're very welcome to join us.
 
 - This is a place for coders of all levels to practice their data structures and algorithms skills. 
 - Whether you simply can't get enough data structures and algorithms problems, or you're actively looking for your first software engineering job and pretty nervous about "the coding part" of the interview.
-- Every 2 weeks we get together to discuss a particularly tickling problem, the likes of which could get asked on an interview.
+- We get together to discuss coding problems and our solutions, the likes of which could get asked on an interview.
+- Join one of our meetups to get involved.
   
 ### Open Source Project (Jitsi)
 
