@@ -43,13 +43,6 @@ Answers to common questions that come up in our Slack channels and Meetups.
     * [Open web accessibility issues](https://github.com/jitsi/jitsi-meet/issues?q=is%3Aopen+is%3Aissue+label%3Aaccessibility+label%3Aweb)
     * [Pull Requests](https://github.com/jitsi/jitsi-meet/pulls?q=is%3Apr+label%3Aaccessibility+) (to see other dev's work)
 </details>  
-
-<details>
-  <summary>What's our Slack channel for asking questions and getting help?</summary>
-  
-  * We use the _#jitsi-project_ channel in the code-mentoring slack workspace.
-    * Join a Meetup to get an invite to our Slack workspace.
-</details>  
   
 ### GIT and GitHub
 
