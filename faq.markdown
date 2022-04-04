@@ -4,8 +4,6 @@ title: FAQ
 permalink: /faq/
 ---
 
-Answers to common questions that come up in our Slack channels and Meetups.
-
 ### Coding Interviews
 
 <details>
