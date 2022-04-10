@@ -6,7 +6,7 @@ permalink: /projects/
 
 These are our ongoing projects and you're very welcome to join us.
 
-### Data Structures and Algorithms Club
+### Coding Club
 
 - This is a place for coders of all levels to practice their data structures and algorithms skills. 
 - Whether you simply can't get enough data structures and algorithms problems, or you're actively looking for your first software engineering job and pretty nervous about "the coding part" of the interview.
