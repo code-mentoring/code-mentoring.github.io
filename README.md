@@ -3,7 +3,7 @@ README.md
 
 # Code Mentoring Website
 
-This repo holds files for the Code Mentoring [website](https://code-mentoring.github.io/) which brings together information about our community, meetups, projects, and recommended learning resources.
+This repo holds files for the Code Mentoring [website](https://codementoring.co/) which brings together information about our community, meetups, projects, and recommended learning resources.
 
 This file documents:
 * How jekyll makes the website
@@ -21,7 +21,7 @@ Jekyll generates the _site directory and contents from the following:
 * (We will add more here as we go!)
 
 The production (live) page can be found at:
-    https://code-mentoring.github.io/
+    https://codementoring.co/
 
 
 Install for local development
