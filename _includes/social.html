@@ -1,5 +1,5 @@
 <ul class="social-media-list">
     {%- if site.github_username -%}<li><a href="https://github.com/{{ site.github_username| cgi_escape | escape }}" target="_blank" rel="noopener noreferrer"><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#github' | relative_url }}"></use></svg> <span class="username">{{ site.github_username| escape }}</span></a></li>{%- endif -%}
-    {%- if site.events_dublin -%}<li><a href="https://dublincodementoring.eventbrite.com" target="_blank" rel="noopener noreferrer"><img class="svg-icon" alt="meetup" src="{{ '/assets/eventbrite.png' | relative_url }}"> <span>{{ site.events_dublin| escape }}</span></a></li>{%- endif -%}
+    {%- if site.events_dublin -%}<li><a href="https://www.meetup.com/Dublin-Code-Mentoring/" target="_blank" rel="noopener noreferrer"><img class="svg-icon" alt="meetup" src="{{ '/assets/meetup.png' | relative_url }}"> <span>{{ site.events_dublin| escape }}</span></a></li>{%- endif -%}
     {%- if site.events_toronto -%}<li><a href="https://www.meetup.com/Toronto-Code-Mentoring" target="_blank" rel="noopener noreferrer"><img class="svg-icon" alt="meetup" src="{{ '/assets/meetup.png' | relative_url }}"> <span>{{ site.events_toronto| escape }}</span></a></li>{%- endif -%}
 </ul>
