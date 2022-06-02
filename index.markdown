@@ -5,7 +5,7 @@
 layout: home
 ---
 
-We are a community of coders, from beginners to seasoned software engineers, creating opportunities for companionship and growth through free knowledge sharing [meetups](meetup.markdown).
+We are a community of coders, from beginners to seasoned software engineers, creating opportunities for companionship and growth through free knowledge sharing [events](events.markdown).
 
 Anyone who wants to improve themselves and help others is welcome to join.
 
