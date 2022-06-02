@@ -1,28 +1,19 @@
 ---
 layout: page
-title: Meetup
-permalink: /meetup/
+title: Events
+permalink: /events/
 ---
 
-Hi, we have a meetup group!
-
-And you're very welcome to join us.
-
 <h2>Upcoming Events</h2>
+
 <div id="upcoming-events-dublin">
     <h3>Dublin</h3>
+    <p><a href="https://www.eventbrite.ie/o/dublin-code-mentoring-48136139703#events" target="_blank" >Dublin Code Mentoring events</a></p>
 </div>
 <div id="upcoming-events-toronto">
     <h3>Toronto</h3>
 </div>
-<!--
-<div id="upcoming-events-melbourne">
-    <h3>Melbourne</h3>
-</div>
-<div id="upcoming-events-medellin">
-    <h3>Medellín</h3>
-</div>
--->
+
 
 <script>
     let options = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric', timeZoneName: 'short', hour: 'numeric' };
@@ -47,25 +38,9 @@ And you're very welcome to join us.
     })
   }  
     
-  const callbackDublin = response => {
-    handleResponse('upcoming-events-dublin', response)
-  }
   const callbackToronto = response => {
     handleResponse('upcoming-events-toronto', response)
   }
-  const callbackMelbourne = response => {
-    handleResponse('upcoming-events-melbourne', response)
-  }
-  const callbackMedellin = response => {
-    handleResponse('upcoming-events-medellin', response)
-  }  
 </script>
-
-<script type="text/javascript"
-  src="https://api.meetup.com/Dublin-Code-Mentoring/events?page=2&callback=callbackDublin"></script>
 <script type="text/javascript"
   src="https://api.meetup.com/Toronto-Code-Mentoring/events?page=2&callback=callbackToronto"></script>
-<script type="text/javascript"
-  src="https://api.meetup.com/Melbourne-Code-Mentoring-Web-Development-Design/events?page=2&callback=callbackMelbourne"></script>
-<script type="text/javascript"
-  src="https://api.meetup.com/Medellin-Code-Mentoring/events?page=2&callback=callbackMedellin"></script>

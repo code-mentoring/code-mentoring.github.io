@@ -58,7 +58,7 @@ Now you have solid knowledge and technical skill, but to get into the industry
 you must understand how software is developed and how to crack the coding interview.
 
 * See [How to effectively use LeetCode to prepare for interviews](https://leetcode.com/discuss/career/449135/How-to-effectively-use-LeetCode-to-prepare-for-interviews).
-  * Come join our coding club meet-ups to practice.
+  * Come join our coding club events to practice.
 * Contribute to open source projects to learn how software development is done.
   * Join our _#jitsi-project_ Slack channel and get involved with Jitsi Meet.
   * See [how to contribute to Jitsi Meet as a Developer](https://community.jitsi.org/t/how-to-how-to-contribute-to-jitsi-meet-as-a-developer/113009).
