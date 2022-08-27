@@ -4,13 +4,8 @@ title: Events
 permalink: /events/
 ---
 
-<h2>Upcoming Events</h2>
-
 <div id="upcoming-events-toronto">
     <h3>Toronto</h3>
-</div>
-<div id="upcoming-events-dublin">
-    <h3>Dublin</h3>
 </div>
 
 <script>
@@ -39,11 +34,6 @@ permalink: /events/
   const callbackToronto = response => {
     handleResponse('upcoming-events-toronto', response)
   }
-  const callbackDublin = response => {
-    handleResponse('upcoming-events-dublin', response)
-  }
 </script>
 <script type="text/javascript"
   src="https://api.meetup.com/Toronto-Code-Mentoring/events?page=2&callback=callbackToronto"></script>
-<script type="text/javascript"
-  src="https://api.meetup.com/Dublin-Code-Mentoring/events?page=2&callback=callbackDublin"></script>
