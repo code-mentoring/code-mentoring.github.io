@@ -8,7 +8,9 @@ permalink: /learn/
 
 Complete beginners should start by learning the languages that developers use to build webpages: HTML (Hypertext Markup Language) for content, and CSS (Cascading Style Sheets) for design.  
 
-Follow this [free tutorial series](https://www.freecodecamp.org/learn/2022/responsive-web-design/) and take your time with each tutorial.
+Follow this [free HTML & CSS tutorial series](https://www.freecodecamp.org/learn/2022/responsive-web-design/) and take your time with each tutorial.
+
+After learning some HTML & CSS, move onward to fundamental coding (a.k.a. programming) in this [free basic JavaScript course](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-javascript).
 
 If you enjoy solving problems with code and figuring things out, then continue your journey below.
 
